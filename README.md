@@ -1,4 +1,4 @@
-# CSE490_Reinforcement_Learning
+# CSE490 Reinforcement Learning
 
 This is a project for my CSE490 "Reinforcement Learning" course at BRAC University. 
 
